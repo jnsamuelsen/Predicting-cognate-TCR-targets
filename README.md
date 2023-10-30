@@ -1,1 +1,2 @@
-# Master-thesis
+# Predicting cognate TCR targets
+This project researches the possibility of using statistical pair potentials to enhance prediction of amino acid preferences in TCR-p-MHC binding in the immune system. Amino acid contact maps are used as the statistical framework for scoring the affinity significance between wild type and modified models. The project involves leveraging publicly accessible structural data sets of protein complexes sourced from the IEDB database. This data was utilized for training protein binding models on GPU resources.
